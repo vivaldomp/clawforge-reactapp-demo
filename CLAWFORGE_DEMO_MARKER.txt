@@ -1,2 +1,5 @@
-Clawforge pipeline demo marker – real Pi-backed reasoning lands in Phase 4.
-Generated: 2026-06-01
+CLAWFORGE DEMO MARKER — Phase 3 placeholder.
+Real Pi-backed reasoning and structural generation land in Phase 4.
+
+Timestamp: 2026-06-01
+Purpose: Ensures the downstream git.commit step has a file to stage and commit.
