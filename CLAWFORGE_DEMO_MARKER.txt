@@ -1,2 +1,2 @@
-stub agent marker for run=run_5507c56a-f4a2-4528-9ad3-dd0bc812aea7 step=agent
-prompt: Write CLAWFORGE_DEMO_MARKER.txt so the downstream git.commit step has something to commit. Real Pi-backed reasoning lands in Phase 4.
+Clawforge pipeline demo marker – real Pi-backed reasoning lands in Phase 4.
+Generated: 2026-06-01
